@@ -30,7 +30,8 @@ Built for hikers, makers, preppers, and everyday carry adventurers who like thei
 **EDC** enthusiasts get a pocketable device that just works. No constant charging anxiety, no fragile glass screens, no babysitting. Toss it in your bag or clip it to your gear and let it quietly do its job, day after day, powered by sunlight and good engineering dreams.
 
 
-| ![Top](/Screens/Top.png) | ![Front_trans](/Screens/Front_transparent_4-3.png) |
+![Top](/Screens/Top.png)
+![Front_trans](/Screens/Front_transparent_4-3.png)  
 ![PCB_screen](/Screens/PCB_V2.png)
 
 ## My motivation to build it
