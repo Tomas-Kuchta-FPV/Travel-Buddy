@@ -15,9 +15,11 @@ Took inspiration from the original idea of Meshtastic and made a hiker, prepper 
 - **Solar panel** so your battery can be rechargerd from 0 to 100 in just two daays
 - Space for a **big battery** for the days when the sun isn't shining
 
-| Front                        | Back                       |
-| ---------------------------- | -------------------------- |
-| ![front](/Screens/Front.png) | ![back](/Screens/Back.png) |
+![Finished Project](/Images/Finished project.JPG)
+
+| Front                       | Back                      |
+| --------------------------- | ------------------------- |
+| ![front](/Images/Front.png) | ![back](/Images/Back.png) |
 
 ## Use cases
 Built for hikers, makers, preppers, and everyday carry adventurers who like their tech smart, tough, and a little bit magical.
@@ -30,9 +32,9 @@ Built for hikers, makers, preppers, and everyday carry adventurers who like thei
 
 **EDC** enthusiasts get a pocketable device that just works. No constant charging anxiety, no fragile glass screens, no babysitting. Toss it in your bag or clip it to your gear and let it quietly do its job, day after day, powered by sunlight and good engineering dreams.
 
-| Top                      | Front                                              | PCB                                |
-| ------------------------ | -------------------------------------------------- | ---------------------------------- |
-| ![Top](/Screens/Top.png) | ![Front_trans](/Screens/Front_transparent_4-3.png) | ![PCB_screen](/Screens/PCB_V2.png) |
+| Top                     | Front                                             | PCB                               |
+| ----------------------- | ------------------------------------------------- | --------------------------------- |
+| ![Top](/Images/Top.png) | ![Front_trans](/Images/Front_transparent_4-3.png) | ![PCB_screen](/Images/PCB_V2.png) |
 
 ## My motivation to build it
 It is some sort of challange to see wether I can do a project thar can be comercialized, almost evhery project can end up making some money but many times it depends wether its worth it.  
