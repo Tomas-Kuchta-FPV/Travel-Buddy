@@ -15,7 +15,7 @@ Took inspiration from the original idea of Meshtastic and made a hiker, prepper 
 - **Solar panel** so your battery can be rechargerd from 0 to 100 in just two daays
 - Space for a **big battery** for the days when the sun isn't shining
 
-![Finished Project](/Images/Finished project.JPG)
+![Finished Project](/Images/Finished_project.JPG)
 
 | Front                       | Back                      |
 | --------------------------- | ------------------------- |
